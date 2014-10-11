@@ -1,7 +1,7 @@
 ModelCoder
 ==========
 
-ModelCoder can Automatic generate Objective-C code by JSON string.
+ModelCoder can Automatic generate Objective-C code by JSON string. thanks for zhuchao.
 
 ####json一键转换为EasyIOS中Model类的工具。
 
@@ -11,7 +11,7 @@ ModelCoder can Automatic generate Objective-C code by JSON string.
 
 	If you have `homebrew` installed, just jump to the second step
 
-  		ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+  		ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 	
 * 2.Installation `objc-run`
 	
